@@ -22,4 +22,4 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 * ⚡  I like sports, my favorite is cycling and chess
 
 	### Skills
-#3776AB
+file:///C:/Users/eduar/Downloads/python%20(1).svg
