@@ -22,4 +22,4 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 * ⚡  I like sports, my favorite is cycling and chess
 
 	### Skills
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg
+#3776AB
