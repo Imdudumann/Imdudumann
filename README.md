@@ -20,3 +20,5 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 * 🧠  I already have basic knowledge in Python and I'm improving myself in the language, I intend to join the world of Java soon
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I like sports, my favorite is cycling and chess
+
+	### Skills
