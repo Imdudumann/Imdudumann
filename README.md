@@ -23,3 +23,6 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 
 # Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+          
