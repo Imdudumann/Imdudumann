@@ -21,6 +21,3 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I like sports, my favorite is cycling and chess
 
-# Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
