@@ -1,5 +1,4 @@
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 Hi 👋 My name is Eduardo Felipe Mann
 ====================================
@@ -15,7 +14,6 @@ I'm 26 years old and I've always been passionate about programming, I've always 
 I'm a student at the university center https://unisenaisc.com.br/ and I am also a student of master Guanabara of https://www.cursoemvideo.com/
 
 
-            <i class="devicon-adonisjs-original "></i>
           
 	
 
@@ -27,5 +25,4 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 * ⚡  I like sports, my favorite is cycling and chess
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
           
