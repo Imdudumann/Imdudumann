@@ -21,4 +21,6 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I like sports, my favorite is cycling and chess
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-adonisjs-original "></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
