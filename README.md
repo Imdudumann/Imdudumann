@@ -28,5 +28,5 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
           
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 </div><br>
