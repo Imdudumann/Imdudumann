@@ -29,5 +29,5 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 50px"/>
 
