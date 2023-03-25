@@ -27,6 +27,4 @@ I'm a student at the university center https://unisenaisc.com.br/ and I am also 
 
           
 
-<div align="center" valign="top"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-</div><br>
+
