@@ -11,7 +11,7 @@ I'm studying systems analysis and development 3/5
 I'm 26 years old and I've always been passionate about programming, I've always liked challenges and I'm always willing to learn.
 	
 
-I'm a student at the university center https://unisenaisc.com.br/ and I am also a student of master Guanabara of https://www.cursoemvideo.com/
+I'm a student at the university center https://unisenaisc.com.br/
 
 
           
